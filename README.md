@@ -1,4 +1,4 @@
-#👋  Hi, I’m Lighton Kalumba (@lightonkalumba)
+# 👋  Hi, I’m Lighton Kalumba (@lightonkalumba)
 
 Welcome to my GitHub profile! I’m passionate about building meaningful tools, solving real-world problems with code, and exploring the edge of what's possible in tech — quietly, consistently, and intentionally.
 
