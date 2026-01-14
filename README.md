@@ -4,6 +4,6 @@
 - 🚀 Love building ML models and apps  
 - 📊 Dozens of projects on GitHub, always building more  
 - 🏆 Hackathon winner & Kaggle notebook Expert
-- 500+ Forks Across all my work
+- 900+ Forks Across all my work
 
 Always learning. Always building.  
